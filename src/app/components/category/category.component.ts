@@ -41,7 +41,6 @@ export class CategoryComponent implements OnInit {
     }
     else{
       return "list-group-item"
-
     }
   }
 }
